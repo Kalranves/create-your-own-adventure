@@ -366,3 +366,5 @@ Do you:
 [Create an artificial intelligence to help you escape](robot-rap-battle/robot-rap-battle.md)
 
 [Abdul kalam quotes on overcoming fear] (apj/apj.md)
+
+[Try to use magic wand again](wand/wand.md)
